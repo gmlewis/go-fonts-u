@@ -1,3 +1,3 @@
 module github.com/gmlewis/go-fonts-u
 
-go 1.22.4
+go 1.25.0
